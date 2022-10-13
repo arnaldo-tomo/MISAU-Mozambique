@@ -1,0 +1,135 @@
+#Login{
+    background: url(../images/corona01.jpg) no-repeat;
+    height: 600px;
+    background-size:  cover;
+   
+   
+
+}
+#Menu{
+    -webkit-box-shadow: -1px 4px 8px 1px rgba (0,0,0,0,75);
+-moz-box-shadow: -1px 4px 8px 1px rgba (0,0,0,0,75);
+sombra da caixa: -1px 4px 8px 1px rgba (0,0,0,0,75);
+}
+
+
+
+#ow{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    }
+
+#Rod{ text-align: center;
+    color: white;
+    background-color: #333333;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    text-align: center;
+}
+
+#tela{ padding: 100px;
+       padding-top: 15px;
+    padding-bottom: 25px;
+    
+    }
+
+
+
+#xv{ 
+     text-align: center; }
+
+#Tay{
+        text-align: center; }
+h2{
+    color: #323232;
+    padding-top: 20px;
+    font-size: 31px;
+    padding-left: 7%;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+     src: local('Raleway Black'), local('Raleway-Black'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwK4vWqhPAMif.woff2) format('woff2');
+      }
+
+h3{
+  color: #323232;
+  font-size: 14px;
+  padding-left: 7%;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+  }
+h5{
+   font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Raleway ExtraLight'), local('Raleway-ExtraLight'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwOIpWqhPAMif.woff2) format('woff2');
+      } 
+p{
+    font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh7USSwaPGR_p.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+#Co{ padding-top: 100px; }
+
+#Conta{
+    opacity: 95%;
+    padding-left: 60%;
+    padding-top: 140px;
+    width: 92.6%;
+    
+    
+    }
+ 
+#dx{
+        padding-top: 9%;
+        text-align: center;
+        padding-right: 100px;
+        padding-left: 100px;
+        opacity: 90%;
+        
+   }
+#Nv{
+    
+    padding-top: 20px; 
+}
+#New{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 20px;  
+    
+    
+}
+
+
+
+#St{
+    text-align: center;
+}
+
+
+
+#Post1{
+    
+    font-size: 15px;
+    font-family: 'Raleway';
+    font-style: normal;
+    
+     src: local('Raleway Black'), local('Raleway-Black'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwK4vWqhPAMif.woff2) format('woff2');
+}
+
+#Post2{
+    
+    font-size: 31px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 90;
+     src: local('Raleway Black'), local('Raleway-Black'), url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwK4vWqhPAMif.woff2) format('woff2');
+} 
